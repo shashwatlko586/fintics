@@ -1,0 +1,2 @@
+# fintics
+financial analytics
